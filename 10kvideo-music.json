@@ -1,0 +1,83 @@
+[
+  {
+    "filename": "Beautiful Story - Vladislav Kurnikov.MP3",
+    "duration_seconds": 81.058,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 1945441,
+    "sha256": "693e5d619e405ec65dab42df350186fa3380788beef78fcd4d9e19a5ea5edad2"
+  },
+  {
+    "filename": "Beautiful Wild Nature.MP3",
+    "duration_seconds": 124.16,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 2979890,
+    "sha256": "7f3a38959c604d6cb4a0c1013fb03c2c075d13dca9e7e7c44454e0e948638a2e"
+  },
+  {
+    "filename": "Inspiring Acoustic - AShamaluevMusic.m4a",
+    "duration_seconds": 158.592,
+    "codec": "aac",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 2567407,
+    "sha256": "20c7962a8c35d4136d3f3caaa097e468f0651dc16764edbbacf3a638731dbed8"
+  },
+  {
+    "filename": "Little Things - Immaterial - YouTube.mp3",
+    "duration_seconds": 184.552,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 4430723,
+    "sha256": "bc9682ba25379f1757dbc1df1f6805f63d8bb88cc9cfb8d6fc82fbbaeca5a1ee"
+  },
+  {
+    "filename": "Motivational Background Music.mp3",
+    "duration_seconds": 181.116,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 7277437,
+    "sha256": "11bbc196fa3ca89ab4fc9c7624aeedb8ef6e76e44c6999ced5c7787da31dc7ea"
+  },
+  {
+    "filename": "NHẠC NỀN - MASTER ANH ĐỨC.MP3",
+    "duration_seconds": 58.593,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 1406273,
+    "sha256": "c6fae1a8ce44a0137b2deed30bd5eec246c984b5c763e5dd01879f556b1fbc7b"
+  },
+  {
+    "filename": "Spring In My Step - Nhạc khoá học SALY.mp3",
+    "duration_seconds": 118.719,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 2850837,
+    "sha256": "e20b0a4f7df8c9e8748a512357f610f3a90381605485d70ee25c6c4520d80cdc"
+  },
+  {
+    "filename": "Warm Memories - Emotional Inspiring Piano.m4a",
+    "duration_seconds": 1840.599,
+    "codec": "aac",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 11224265,
+    "sha256": "c5fd20deb7c0a59eec676052aa36842b47eaf0de533a807d5e517dff6e8a4933"
+  },
+  {
+    "filename": "Windy Hill (mp3cut.net).mp3",
+    "duration_seconds": 154.749,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "bytes": 2481350,
+    "sha256": "803d89926dd614891720ce28214fd5a2c6a24187ba9cc3592d81f5f9ac5279b1"
+  }
+]
